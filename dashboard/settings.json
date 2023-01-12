@@ -1,0 +1,23 @@
+{
+    "website" : {
+      "support": "https://discord.gg/TN3pEmERAd",
+      "domain": "https://Musicium.parsawolf.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "https": {
+            "paths": {
+                "privkey": "/etc/letsencrypt/live/Musicium.parsawolf.repl.co/privkey.pem",
+                "fullchain": "/etc/letsencrypt/live/Musicium.parsawolf.repl.co/fullchain.pem",
+                "chain": "/etc/letsencrypt/live/Musicium.parsawolf.repl.co/chain.pem"
+            },
+            "enabled": false,
+            "port": 443
+        },
+        "callback": "https://Musicium.parsawolf.repl.co/callback",
+        "clientID": "966819542183591976",
+        "secret": "oAwm_28N0bZ9bD2dVit21SGP3vwRjTXw"
+    }
+  }
