@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "prefix": "k!",
+  "youtubeCookie": "CONSENT=PENDING+864; __Secure-3PSID=SAhcQ9IhaJYD84Nk4vHn5o5_FtHT7upL7o6rbQyVYK4gtst4kJu1kjLbp07sxVC6ka0rRw.; __Secure-3PAPISID=5C5QVV0Bv17oVGeq/A_OfLzALqXisz8kjQ; LOGIN_INFO=AFmmF2swRgIhAJeJuTF9SBn8bQj8nbMy7d0qgYJPEUmYdC5F-KZkR5OHAiEA7sn3_i74SKqvFf2FWN5LkujyEoTrosKFm7BifiTEWR0:QUQ3MjNmenUtRkx0SkVoUlVWZFBhMDk2WmRJMXRTZHVFTjJhcnkxempBN29zQVd1Y0hYUXBJMGhlNk9WMVZMam5sSmVBbkR2NTAyTFlMb0FobU1MMjBvT3E0RGdKUU93bnlpNEw1WGdCNkNGaDdFS3RfR3ctSklWMllKcjBSZV9Fel9oejh1UHgxSm5tZ3hqQm0xNGhUSlZjcDhMYThlX1VR; __Secure-YEC=CgswRFk5czJLZnZfSSiho8CdBg%3D%3D; PREF=tz=Asia.Tehran&f6=40000000&f7=100; VISITOR_INFO1_LIVE=3T6h-1G9hAE; YSC=g-l_fbgRW_M; CONSISTENCY=ACHmjUogpmqZtX9GPDtlzy_70XhUU-I_PJ2x3qDtUd1AuVFwoDoj7k-vI-5XsumiLSl5I2eftscKBP5vxwciFbyk846FPNRrkyffP5umfCeFmsgTMPIkPW696ZSRFLLz_HelWeli_q32GKYJTjsAlM02; __Secure-3PSIDCC=AIKkIs0jWJzLye2n_VSAGCj_yENIJj6BNvwRXUxzhCJFjJ5yXC-S8RPMz800X77cU3-96b84",
+  "spotify_api": {
+        "enabled": false, "_COMMENT_": "Set it to false, if you want to scrape, when on true you can get spotify playlists with 100+ Tracks",
+        "clientSecret": "8b8a1384ea5040459702a0e47ec0ab80",
+        "clientId": "cc86993ba47d44ffa3db7fc62baf21c1"
+  },
+  "loadSlashsGlobal": true, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)"
+}
